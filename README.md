@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Aria!</h1>
-<h3 align="center">A passionate realistic content developer from South Korea</h3>
+<p align="center">
+  ![whale](./Img/Whale.jpg)
+</p>
+<h1 align="left">Hi 👋, I'm Aria!</h1>
+<h3 align="left">A Creative realistic content developer from South Korea</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pushssun" alt="pushssun" /></a> </p>
 

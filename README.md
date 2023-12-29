@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pushssun&show_icons=true&locale=en" alt="pushssun" /></p>
 
-![](./profile-3d-contrib/profile-3d-contrib/profile-gitblock.svg)
+![](./profile-3d-contrib/profile-gitblock.svg)

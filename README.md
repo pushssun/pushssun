@@ -25,10 +25,10 @@
 <p align="left">
   <h3 align="left">📞 Connect with me 📞</h3>
   <div align="left">
-    <a href="https://www.notion.so/42c4af42074848958b416b6d4c9c5ca3" align=center>
+    <a href="mailto:alsgp25@gmail.com" align=center>
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"&link="https://www.notion.so/42c4af42074848958b416b6d4c9c5ca3"/>
     </a>
-    <a href="mailto:alsgp25@gmail.com" align=center>
+    <a href="https://www.notion.so/42c4af42074848958b416b6d4c9c5ca3" align=center>
       <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"&link="https://www.notion.so/42c4af42074848958b416b6d4c9c5ca3"/>
     </a>
   </div>

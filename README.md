@@ -23,7 +23,7 @@
 <br>
 
 <p align="left">
-  <h3 align="left">Connect with me</h3>
+  <h3 align="left">📞 Connect with me 📞</h3>
   <div align="left">
     <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"&link="https://www.notion.so/42c4af42074848958b416b6d4c9c5ca3"/>
   </div>
